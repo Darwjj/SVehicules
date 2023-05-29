@@ -1,6 +1,7 @@
 # Welcome to SVehicules S.L.
 
 On our website, you can find every luxury car you desire in your home's comfort.
+<img width="1440" alt="image" src="https://github.com/Darwjj/SVehicules/assets/82006604/a2f0f49b-a171-4a28-b488-1975e9badd39">
 
 On our main page, you can find a brief resume of our company, different types of vehicles you rent or buy, principal locations, some of the most typical questions we have every day, and various references that make us who we are as a company.
 
